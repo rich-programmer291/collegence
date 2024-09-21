@@ -5,15 +5,15 @@
 **Backend:** Express.js, Node.js
 **Database:** MongoDB
 
-# **INSTALLATION**: 
+# **Installation:** 
 <br/>To install this project in your system locally <br/>
 (run on terminal)<br/>
 **Step 1:** - git clone https://github.com/yourusername/collegence.git<br/>
 **Step 2:** - cd collegence<br/>
-**Step 3:** - <br/>
+**Step 3:** - <br/><br/>
 FRONTEND<br/>
   cd frontend<br/>
-  npm install<br/>
+  npm install<br/><br/>
 BACKEND<br/>
   cd ../backend<br/>
   npm install<br/>
