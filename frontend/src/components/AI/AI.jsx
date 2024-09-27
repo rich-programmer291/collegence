@@ -7,7 +7,7 @@ import { FaRobot } from "react-icons/fa";
 import TypingTextarea from '../TypingTextArea';
 
 
-const genAI = new GoogleGenerativeAI('AIzaSyDI086vEbc5Z-kvJ54aER0h8vZjwvQp7fI');
+const genAI = new GoogleGenerativeAI('API_KEY_HERE');
 const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 
 const AI = ({prompt}) => {
